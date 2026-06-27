@@ -23,3 +23,29 @@ Q5. DNS Cache kya hota hai?
 Q6. Browser IP kaise find karta hai?
 
 Q7. Public DNS aur Private DNS me difference?
+
+---------------------------------------------------------------------------------------------
+
+Q1. What is an IP Address?
+
+Q2. Difference between Public and Private IP?
+
+Q3. Can an Azure VM have both Public and Private IP?
+
+Q4. Why should production VMs avoid Public IPs?
+
+Q5. What is IPv4?
+
+----------------------------------------------------------------------------------------------
+
+Q1. CIDR ka purpose kya hai?
+
+Q2. /24 ka matlab kya indicate karta hai?
+
+Q3. VNet aur Subnet me relation kya hai?
+
+Q4. IP Planning pehle kyu karte hain?
+
+Q5. Agar IP range khatam ho jaye to kya problems aa sakti hain?
+
+------------------------------------------------------------------------------------------------
