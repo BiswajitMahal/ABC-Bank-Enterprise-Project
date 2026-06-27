@@ -24,7 +24,7 @@ New Server.
 
 Engineer.
 
-ipconfig /flushdns
+## ipconfig /flushdns
 
 karwata hai.
 
