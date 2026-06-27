@@ -49,3 +49,11 @@ Q4. IP Planning pehle kyu karte hain?
 Q5. Agar IP range khatam ho jaye to kya problems aa sakti hain?
 
 ------------------------------------------------------------------------------------------------
+
+1. Why is subnetting required?
+2. What problems occur if every server is placed inside one network?
+3. Why should databases use separate subnets?
+4. How does subnetting improve security?
+5. Why is subnet planning performed before deploying Azure resources?
+
+---------------------------------------------------------------------------------------------------
