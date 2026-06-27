@@ -246,15 +246,6 @@ This architecture follows Microsoft cloud networking best practices.
 
 ---
 
-# Practice Questions
-
-1. Why is subnetting required?
-2. What problems occur if every server is placed inside one network?
-3. Why should databases use separate subnets?
-4. How does subnetting improve security?
-5. Why is subnet planning performed before deploying Azure resources?
-
----
 
 # Mini Quiz
 
